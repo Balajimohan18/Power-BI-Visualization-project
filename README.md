@@ -14,3 +14,6 @@ The data is from US Based E-Commerce Sales Company about their Profits and Sales
  * The Primary dataset has vast data such as Customer Id & Details, Product Category & Details, Order ID & Date, Delivery Status with Shipment Details.
  * The Primary data mainly holds the measure values such as Order Quantity, Sales per order, Profit per order which gives the Overall Revenue for the Sales.
  * The Secondary data has the Geological Codes such as Latitude, Logitude, State Name & Code.
+ * Create the relationship between customer state from Primary data and name in Secondary data.
+
+## _[HR Attrition Data Analysis](HR%20Attrition%20Data%20Analysis)_
