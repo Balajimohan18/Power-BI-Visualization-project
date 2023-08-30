@@ -17,3 +17,8 @@ The data is from US Based E-Commerce Sales Company about their Profits and Sales
  * Create the relationship between customer state from Primary data and name in Secondary data.
 
 ## _[HR Attrition Data Analysis](HR%20Attrition%20Data%20Analysis)_
+The Reported Data from HR Department in a Reputed Firm which contains the Attrition Data.
+ * The data is analyzed here to show various valuable insights.
+ * The data has various factors such as Employee Detail, Department, Educational Qualification, Job Satisfaction Score, Working Experience at the Firm.
+ * The data possess Salary Data of Each Employee, Hourly Rate, Salary Hike Percent.
+ * Over-Time Working Hours, Standard Working Hours, Number of Companies Worked in Past, Total Number of Working Years can also extracted from the data.
