@@ -27,8 +27,7 @@ The Reported Data from HR Department in a Reputed Firm which contains the Attrit
 The Data has Road Accident Report for the year 2021 and 2022 extracted from Ministry of Road Transport and Highways portal.
  * The data is analyzed to gain multiple insights which can be helpful for the Stakeholders.
  * The data insights can be used to reduce the accuidents and to improve emergency rooms in hospitals based on severity.
-
-The Possible Stakeholders who gain insights from the report are:
+ * The Possible Stakeholders who gain insights from the report are:
  - Ministry of Transport
  - Road Transport Department
  - Police Force
