@@ -23,7 +23,7 @@ The Reported Data from HR Department in a Reputed Firm which contains the Attrit
  * The data possess Salary Data of Each Employee, Hourly Rate, Salary Hike Percent.
  * Over-Time Working Hours, Standard Working Hours, Number of Companies Worked in Past, Total Number of Working Years can also extracted from the data.
 
-## _[Pizza Sales Analysis Report]([Pizza%20Sales%20Analysis%20Report)_
+## _[Pizza Sales Analysis Report](Pizza%20Sales%20Analysis%20Report)_
 The Data is from Pizza Store regarding their Sales and Revenue.
 * The Sales data is for the year of 2015 and contains 48,620 sales records.
 * The data has various factors such as pizza id, order id, pizza name id, quantity, order date, order time, unit price, total price, pizza size, pizza category, pizza ingredient and pizza name.
