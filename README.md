@@ -44,7 +44,7 @@ The Data has Road Accident Report for the year 2021 and 2022 extracted from Mini
    - Traffic Management Agencies
    - Public
    - Media
-## [Rafik's Kitchen Expenses Report](
+## [Rafik's Kitchen Expenses Report](https://github.com/Balajimohan18/Rafik-s-Kitchen-Data-Analysis/tree/main/Analysis%20Report)
 The data is from the Fast-food Restaurant about their Sales and Expenses of the year 2022 which can be used to gain insights that helps business.
 - The collected data is of two datasets. Both the Sales and Expenses data are collected individually.
 - The Relationship is built between Sales and Expenses Data to gain proper and clear inisights for better understanding.
